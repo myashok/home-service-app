@@ -1,4 +1,4 @@
-# HOme Servie App
+# Home Servie App
 ## Description
 
 Brief description of your app.
@@ -15,13 +15,13 @@ Brief description of your app.
 3. Clone this repository:
 
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:myashok/home-service-app.git
     ```
 
 4. Navigate into the project directory:
 
     ```bash
-    cd <project-directory>
+    cd home-service-app
     ```
 
 5. Install dependencies:
@@ -53,11 +53,17 @@ Brief description of your app.
 
 1. Follow the [Expo documentation](https://docs.expo.dev/distribution/introduction/) to build standalone apps for iOS and Android.
 
-## Features
+## ScreenShots
 
-- Feature 1
-- Feature 2
-- ...
+- ScreenShots
+![Screenshot 1](https://raw.githubusercontent.com/myashok/home-service-app/main/ScreenShots/screenshot1.png)
+![Screenshot 2](https://raw.githubusercontent.com/myashok/home-service-app/main/ScreenShots/screenshot2.png)
+![Screenshot 3](https://raw.githubusercontent.com/myashok/home-service-app/main/ScreenShots/screenshot3.png)
+![Screenshot 4](https://raw.githubusercontent.com/myashok/home-service-app/main/ScreenShots/screenshot4.png)
+![Screenshot 5](https://raw.githubusercontent.com/myashok/home-service-app/main/ScreenShots/screenshot5.png)
+![Screenshot 6](https://raw.githubusercontent.com/myashok/home-service-app/main/ScreenShots/screenshot6.png)
+![Screenshot 7](https://raw.githubusercontent.com/myashok/home-service-app/main/ScreenShots/screenshot7.png)
+
 
 ## Contributing
 
