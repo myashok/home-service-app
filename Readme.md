@@ -55,7 +55,6 @@ Brief description of your app.
 
 ## ScreenShots
 
-- ScreenShots
 ![Screenshot 1](https://raw.githubusercontent.com/myashok/home-service-app/main/ScreenShots/screenshot1.png)
 ![Screenshot 2](https://raw.githubusercontent.com/myashok/home-service-app/main/ScreenShots/screenshot2.png)
 ![Screenshot 3](https://raw.githubusercontent.com/myashok/home-service-app/main/ScreenShots/screenshot3.png)
